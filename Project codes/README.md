@@ -1,5 +1,3 @@
-# Shortcut to notebooks
-
 # Shortcuts to assignments 
 
 |Assignment|link|
