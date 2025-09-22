@@ -4,9 +4,11 @@ This repository is used for school in the course: generative AI with LLMs. Conte
 
 Create a new blank file in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/empty.ipynb)
 
-## Litterature used in the course:
+## Litterature used in the course
+**Github repos**
 * **Natural Language Processing with Transformers**: https://github.com/nlp-with-transformers/notebooks
 * **Hands-On Generative AI with Transformers and Diffusion Models**: https://github.com/genaibook/genaibook
+**Articles**
 * **Finally, a Replacement for BERT**: https://huggingface.co/blog/modernbert
 
 
@@ -18,7 +20,7 @@ Create a new blank file in colab: [![Open In Colab](https://colab.research.googl
 
 
 
-|chapter|link|Assignment|link|
+|Chapter|Link|Assignment|Link|
 |--------------------|-----------------------|--------------------|-----------------------|
 |GenAI_00_corrections|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Litterature/GenAI_00_corrections.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|Assignment 1|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Project%20codes/Assignment01.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 GenAI_02_transformers|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Litterature/GenAI_02_transformers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|Assignment 2|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Project%20codes/Assignment02.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
