@@ -12,6 +12,8 @@ Create a new blank file in colab: [![Open In Colab](https://colab.research.googl
 **Articles**
 
 * **Finally, a Replacement for BERT**: https://huggingface.co/blog/modernbert
+* **A Visual Guide to Quantization**: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization  
+* **Simplifying Alignment: From RLHF to Direct Preference Optimization (DPO)**: https://huggingface.co/blog/ariG23498/rlhf-to-dpo  
 
 
 ## Shortcut to notebooks
