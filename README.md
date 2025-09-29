@@ -13,16 +13,14 @@ Create a new blank file in colab: [![Open In Colab](https://colab.research.googl
 
 * **Finally, a Replacement for BERT**: https://huggingface.co/blog/modernbert
 * **A Visual Guide to Quantization**: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization  
-* **Simplifying Alignment: From RLHF to Direct Preference Optimization (DPO)**: https://huggingface.co/blog/ariG23498/rlhf-to-dpo  
+* **Simplifying Alignment: From RLHF to Direct Preference Optimization (DPO)**: https://huggingface.co/blog/ariG23498/rlhf-to-dpo
+* **A Visual Guide to Mixture of Experts (MoE)**: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts
+* **DeepSeek-R1 Dissection**: https://huggingface.co/blog/NormalUhr/grpo
+* **A Visual Guide to Reasoning LLMs**: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms
+* **Post training an LLM for reasoning with GRPO in TRL**: https://huggingface.co/learn/cookbook/en/fine_tuning_llm_grpo_trl 
 
 
 ## Shortcut to notebooks
-
-
-
-
-
-
 
 |Litterature notebook|Link|Assignment|Link|
 |--------------------|-----------------------|--------------------|-----------------------|
