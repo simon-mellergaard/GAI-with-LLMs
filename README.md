@@ -18,7 +18,7 @@ Create a new blank file in colab: [![Open In Colab](https://colab.research.googl
 * **DeepSeek-R1 Dissection**: https://huggingface.co/blog/NormalUhr/grpo
 * **A Visual Guide to Reasoning LLMs**: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms
 * **Post training an LLM for reasoning with GRPO in TRL**: https://huggingface.co/learn/cookbook/en/fine_tuning_llm_grpo_trl
-* **Advanced RAG on Hugging Face documentation using LangChain**: https://huggingface.co/learn/cookbook/en/advanced_rag#advanced-rag-on-hugging-face-documentation-using-langchain
+* **Optimizing RAG retrieval: Test, tune, succeed**: https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval
 
 
 ## Shortcut to notebooks
@@ -40,3 +40,4 @@ DPO_example_smolV2|<a href="https://colab.research.google.com/github/simon-melle
 Mixtral_chatbot|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Other%20material/Mixtral_chatbot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 GRPO_fine_tuning_llm_grpo_trl|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Other%20material/GRPO_fine_tuning_llm_grpo_trl.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 advanced_rag|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Other%20material/advanced_rag.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+optimizing_RAG|<a href="https://colab.research.google.com/github/simon-mellergaard/GAI-with-LLMs/blob/main/Other%20material/optimizing_RAG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
